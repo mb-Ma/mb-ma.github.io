@@ -9,7 +9,7 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hagen, Germnay</p>
+    <p>Hagen, Germnay</p>  
     <p>Chengdu, China</p>
 
 news: true # includes a list of news items
