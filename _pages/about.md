@@ -10,11 +10,12 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Hagen, Germnay</p>   
+    
     <p>Chengdu, China</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi! This is Minbo Ma. I am a Ph.D. student at Southwest Jiaotong University (SWJTU), China, supervised by [Prof. Tianrui Li](https://faculty.swjtu.edu.cn/litianrui/en/index.htm). Currently, I am also pursuing a Ph.D. degree at Fernuniversität in Hagen, Germany, supervised by Prof. Dr.-Ing. habil. Dr. h.c. Herwig Unger and Prof. Dr. Zhong Li. 
