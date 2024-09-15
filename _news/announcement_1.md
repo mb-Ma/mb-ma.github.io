@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-03
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+One paper *Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction* is accepted by TKDE. (IF: 8.9, CCF-A).
