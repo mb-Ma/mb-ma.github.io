@@ -9,8 +9,7 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ph.D. Student <br> 
-    minbo46.ma@gmail.com</p>
+    <p>Ph.D. Student, minbo46.ma@gmail.com</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
